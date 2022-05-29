@@ -1,0 +1,11 @@
+### Objetos
+Los objetos son contenedores de datos los cuales nos permiten tener informacion de alguna forma mas ordenada que los arrays,
+ya que puedes crearlos e introducir un parametro asociado a un dato o valor para poder encontrarlo mas facilmente. Los objetos
+pueden contener cualquier tipo de string,numeros, arrays e incluso funciones. Los objetos se crean con las {} y colocando en forma de
+lista el parametro y el dato al que corresponde ese parametro. Despues podemos invocar estos parametros de distintas formas ya sea
+usando el . o [] para referirnos al parametro buscado. Tambien podemos modificar los valores dentro de los objetos o eliminarlos de ser necesario.
+Tambien podemos usar la palabra this. para referirnos al objeto pero debe ser usada dentro del objeto para acceder a parametros que 
+necesitamos.
+Para poder realizar bucles en los objetos usamos el bucle for in en el cual nos referemos a los parametros dentro del objeto que van
+a ser iterados ya que estos no contienen indices como en el caso de los arrays.
+Para los metodos deben ser llamados usando notacion de puntos y parentesis al final.
